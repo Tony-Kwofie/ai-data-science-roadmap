@@ -24,6 +24,8 @@ print(df["Pclass"].value_counts())
 # Compare survival rate of men vs women:
 print(df.groupby("Sex")["Survived"].mean())
 
+
+# Creates a bar chart showing how many people survived (1) and how many didn’t (0).
 import matplotlib.pyplot as plt
 
 df["Survived"].value_counts().plot(kind="bar")
