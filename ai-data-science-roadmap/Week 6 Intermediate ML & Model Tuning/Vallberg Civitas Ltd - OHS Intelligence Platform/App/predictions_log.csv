@@ -1,0 +1,2 @@
+Location,Department,Injury_Type,Root_Cause,Corrective_Action,Days_Lost,Predicted_Risk,Timestamp
+Site A,Maintenance,Cut,Human Error,Training,0,Medium,2025-04-25 14:36:40.917046
