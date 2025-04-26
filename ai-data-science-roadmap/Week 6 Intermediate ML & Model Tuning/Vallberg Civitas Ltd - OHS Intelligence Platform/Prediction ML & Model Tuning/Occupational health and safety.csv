@@ -1,0 +1,11 @@
+Incident ID,Date,Location,Severity,Employee Age,Injury Type,Cause,Duration (Days),Reported,Comments
+1,5/15/2023,Site A,High,32,Fracture,Fall from height,5,Yes,N/A
+2,6/2/2023,Site B,Medium,28,Burn,Contact with hot surface,2,No,Incomplete report
+3,7/10/2023,Site A,Low,45,Sprain,Slip on wet floor,3,Yes,No serious injury
+4,8/1/2023,Site C,High,NaN,Laceration,Machinery malfunction,7,Yes,Injured while working on machine
+5,8/20/2023,Site A,High,29,Broken Bone,Collision with vehicle,NaN,Yes,
+6,9/12/2023,Site B,Medium,36,Bruise,Fall,1,No,Report not submitted
+7,9/22/2023,Site A,Low,40,Fracture,Trip over equipment,4,Yes,
+8,NaN,Site C,Low,38,Contusion,Falling object,2,Yes,Insufficient details
+9,10/3/2023,Site A,NaN,30,Sprain,Incorrect posture,0,Yes,
+10,11/5/2023,Site B,High,50,Concussion,Fall from scaffolding,10,Yes,N/A
